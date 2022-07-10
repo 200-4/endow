@@ -1,0 +1,45 @@
+.qodef-qi-button{
+    font-family: var(--highlight-font-family);
+}
+
+.chart-box {
+    border-color: var(--border-color);
+}
+
+.sidebar-service-right {
+    background: var(--box-color);
+}
+
+input.bg-transparent.cust-text 
+{
+    color: var(--global-font-title);
+}
+
+textarea.bg-transparent.wpcf7-form-control.wpcf7-textarea.wpcf7-validates-as-required
+{
+    color: var(--global-font-title);
+}
+
+input[type="email"] 
+{
+    color: var(--global-font-title);
+}
+
+.endow-blog-main-list .endow-blog-box 
+{
+    margin-top: -30px;
+    margin-bottom: -30px;
+}
+
+.sidebar-service-right {
+    background: var(--box-color);
+    height: fit-content;
+}
+.cust_testimonials .qodef-e-inner {
+    background-color: var(--global-body-bgcolor);
+    padding: 30px;
+    border-radius: var(--border-radius-box);
+}
+.chart-card{
+    padding: 25px !important;
+}
